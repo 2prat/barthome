@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/binance-cfo-adopts-new-dog",
+      "destination": "https://barticle-beta.vercel.app/"
+    }
+  ]
+}
